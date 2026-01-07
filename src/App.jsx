@@ -5,7 +5,7 @@ import PostList from "./pages/PostList";
 import UserList from "./pages/UserList";
 function App() {
   return (
-    <Router basename="/f8-fullstack-day-40-react-redux/">
+    <Router basename="/f8-fullstack-day-40-react-redux">
       <Routes>
         <Route index element={<Home />} />
         <Route path="/provinces" element={<Provinces />} />

@@ -12,5 +12,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "src"),
     },
   },
-  base: "/f8-fullstack-day-40-react-redux/",
+  base: "/f8-fullstack-day-40-react-redux",
 });

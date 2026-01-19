@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router";
-import PostList from "./pages/PostList";
-import UserList from "./pages/UserList";
+import PostList from "./pages/PostsList";
+import UserList from "./pages/UsersList";
 import Navigation from "./components/layout/Navigation";
 function App() {
   return (
